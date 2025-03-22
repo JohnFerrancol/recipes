@@ -10,4 +10,4 @@ I am using a popular Bodybuilding Cookbook from Greg Doucette called [the Ultima
 
 I will be using 3 of his dishes that are readily available at his [Youtube Channel](https://www.youtube.com/playlist?list=PLNAZHiu0ASAprWRUxQHAiHG1FhlJbyeIm)
 
-## [Live Demo](https://johnferrancol.github.io/odin-recipes/)
+## [Live Demo](https://johnferrancol.github.io/recipes/)
