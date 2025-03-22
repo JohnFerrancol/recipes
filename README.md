@@ -1,13 +1,22 @@
 # Recipes
+[Live Demo](https://johnferrancol.github.io/recipes/)</br><br/>
+[![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#)
 
-## Overview
+## About The Project
+This is a project from [The Odin Project](https://theodinproject.com): [Project Recipes](https://www.theodinproject.com/lessons/foundations-recipes). This is a basic recipe website with a main index page with links to the 3 recipe web pages. I am referencing a popular Bodybuilding Cookbook from Greg Doucette called [the Ultimate Anaboblic Cookbook 2.0](https://www.gregdoucette.com/products/cookbook-2). I will be using 3 of his dishes that are readily available on his [YouTube channel](https://www.youtube.com/playlist?list=PLNAZHiu0ASAprWRUxQHAiHG1FhlJbyeIm)
 
-This is a project from [The Odin Project](https://theodinproject.com): [Project Recipes](https://www.theodinproject.com/lessons/foundations-recipes).
+## Learning Points
+- Understanding the basic HTML boilerplate
+- Understanding how to structure a website project
+- Understanding the use of basic HTML elements like headers, lists, paragraphs, images, etc
+- Understanding basic CSS
 
-This is a basic recipe website using basic HTML and CSS, with a main index page which will have links to the 3 recipe web pages
+## Tech Stack
+- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+- [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
-I am using a popular Bodybuilding Cookbook from Greg Doucette called [the Ultimate Anaboblic Cookbook 2.0](https://www.gregdoucette.com/products/cookbook-2) as a reference
+## Roadmap
+- [x] Adding the HTML boilerplate, index.html
+- [x] Creating additional HTML webpages containing the recipes
+- [x] Adding basic CSS
 
-I will be using 3 of his dishes that are readily available at his [Youtube Channel](https://www.youtube.com/playlist?list=PLNAZHiu0ASAprWRUxQHAiHG1FhlJbyeIm)
-
-## [Live Demo](https://johnferrancol.github.io/recipes/)
